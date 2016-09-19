@@ -54,7 +54,7 @@
     * [picker](picker.md)
     * [popup-picker](popup-picker.md)
     * [表单验证\(v0.1.1\)](表单验证v011.md)
-    * [Sortable 拖动排序](sortable-拖动排序.md)
+    * [Sortable 拖动排序](form/sortable.md)
 * 时间组件
     * [日期倒计时](date/clocker.md)
     * [秒数倒计时](date/seconds-countdown.md)
